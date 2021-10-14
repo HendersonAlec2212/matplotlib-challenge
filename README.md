@@ -44,4 +44,5 @@ Grouping the right information to tell the story of the data was a challenge in 
 
 Detailing graphs is also a key element that will take more practice. Displaying data is great but displaying it well is an a major skill that can go far in allowing for connections between information sets.
 
+There are some separate visualizations present in the <resources/visualizations/> folder path. They were generated using the last box of the .IPYNB and provide a bit of infomation on the trends of all drugs present in the drug trial.
 
